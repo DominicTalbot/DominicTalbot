@@ -24,10 +24,11 @@ I thrive on solving complex problems, learning new technologies, and building to
 
 ---
 
-### 🚀 Currently Working On
+## 🚀 Currently Working On
 
-- **React Admin**: Developing a customizable admin panel for managing web applications.
-- **Portfolio Website**: Showcasing my skills, projects, and professional background.
+- [React Admin](https://github.com/DominicTalbot/react-admin): Developing a customizable admin panel for managing web applications.
+- [Portfolio Website](https://github.com/DominicTalbot/DevDominic): Showcasing my skills, projects, and professional background.
+
 
 ---
 
