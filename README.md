@@ -2,11 +2,9 @@
 
 ## About Me
 
-I'm a digital engineer with a diverse background in software development and technical solutions. My career began in IT support for local government, where I developed tools like e-forms to streamline workflows. I then transitioned into CRM development at TOR Systems, contributing to projects in the visitor attraction industry by designing email templates, campaign wizards, and analytics tools.
-
-Alongside my professional work, I have a passion for game dev, having worked with Unity, C#, and Maya for 3D modeling. These experiences taught me to combine technical precision with creativity. Nowadays, I’m focused on full-stack web development, creating applications using React, Node.js, and modern web technologies. Currently, I’m building a React Admin website and a portfolio website to showcase my skills and projects. 🚀
-
-I thrive on solving complex problems, learning new technologies, and building tools that make a real impact.
+- 💻 Digital engineer with experience in IT support, software development, and CRM solutions. Developed e-forms for local government and email templates for the visitor attraction industry.
+- 🎮 Passionate about game development, skilled in Unity, C#, and Maya for 3D modeling, blending creativity with technical precision.
+- 🌐 Currently focused on full-stack web development, building React Admin and portfolio websites, solving complex problems with modern web technologies like React and Node.js.
 
 
 ---
