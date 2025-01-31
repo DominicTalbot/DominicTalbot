@@ -3,7 +3,7 @@
 ## About Me
 
 - 💻 Digital engineer with experience in IT support, software development, and CRM solutions. Developed e-forms for local government and email templates for the visitor attraction industry.
-- - 🌐 Currently focused on full-stack web development, building React Admin and portfolio websites, solving complex problems with modern web technologies like React and Node.js.
+- 🌐 Currently focused on full-stack web development, building React Admin and portfolio websites, solving complex problems with modern web technologies like React and Node.js.
 - 🎮 Passionate about game development, skilled in Unity, C#, and Maya for 3D modeling, blending creativity with technical precision.
 
 ---
